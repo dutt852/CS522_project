@@ -1,3 +1,8 @@
+#SUBMITTED BY:
+# CHIRANJIV DUTT (2019CSB1083)
+# GAUTAM MANOCHA (2019CSB1086)
+# KSHITIZ ARORA  (2019CSB1095)
+
 import networkx as nx
 import matplotlib.pyplot as plt
 import random
