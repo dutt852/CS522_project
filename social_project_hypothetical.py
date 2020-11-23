@@ -1,7 +1,7 @@
-# total people - 10000
-# parties - 10
-#procedure:
-#    go to each node decide one of the parties (prob for quality dependent selection = 0.8)
+#SUBMITTED BY:
+# CHIRANJIV DUTT (2019CSB1083)
+# GAUTAM MANOCHA (2019CSB1086)
+# KSHITIZ ARORA  (2019CSB1095)
 
 import networkx as nx
 import random
